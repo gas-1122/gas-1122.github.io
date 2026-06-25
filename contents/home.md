@@ -19,4 +19,8 @@ School of Software, Tianjin Normal University (tjnu.edu.cn)\
 天津师范大学软件学院（tjnu.edu.cn）2019 – 2023
 
 #### Research Interests
-Machine Learning; Foundation Model;
+• Machine learning
+• Label distribution learning and Label enhancement
+• Open-world learning
+• Image classification
+
