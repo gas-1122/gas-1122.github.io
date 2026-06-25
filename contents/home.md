@@ -1,6 +1,6 @@
 
 
-[![gas-1122](https://img.shields.io/badge/gas-1122-github-blue?logo=github)](https://github.com/gas-1122)
+[![gas-1122](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 I am a student with the School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University, with a research focus on machine learning and data mining.
 
