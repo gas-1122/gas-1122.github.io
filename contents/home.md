@@ -1,19 +1,25 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![gas-1122](https://img.shields.io/badge/gas-1122-github-blue?logo=github)](https://github.com/gas-1122)
 
-He is an incoming Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am a student with the School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University, with a research focus on machine learning and data mining.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 252212059[at]njnu.edu.cn
 
 #### Education
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022–2025
-
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+School of Computer and Electronic Information/School of Artificial Intelligence, Nanjing Normal University (njnu.edu.cn)
+南京师范大学计算机与电子信息学院/人工智能学院（njnu.edu.cn）
+2025 – 2028  2025年 – 2028年
+Undergrad student  本科生
+School of Law, Tianjin Normal University (tjnu.edu.cn)
+天津师范大学法学院（tjnu.edu.cn）
+2023 – 2025  2023 – 2025
+Undergrad student  本科生
+School of Software, Tianjin Normal University (tjnu.edu.cn)
+天津师范大学软件学院（tjnu.edu.cn）
+2019 – 2023  2019 – 2023
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning; Foundation Model;
